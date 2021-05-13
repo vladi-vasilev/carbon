@@ -1,0 +1,23 @@
+@font-face {
+    font-family: "Bariol";
+    src: url('../assets/fonts/bariol_regular-webfont.ttf');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Bariol";
+    src: url('../assets/fonts/bariol_bold-webfont.ttf');
+    font-weight: 500;
+    font-style: bold;
+}
+
+@font-face {
+    font-family: "Raleway";
+    src: url('../assets/fonts/Raleway-VariableFont_wght.ttf');
+}
+
+@font-face {
+    font-family: "Varela Round";
+    src: url('../assets/fonts/VarelaRound-Regular.ttf');
+}
